@@ -35,3 +35,4 @@ function playRound(playerSelection, computerSelection) {
 }
 
 console.log(playRound(getPlayerChoice(), getComputerChoice()));
+//
